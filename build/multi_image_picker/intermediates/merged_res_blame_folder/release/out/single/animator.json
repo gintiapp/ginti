@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\yourw\\Desktop\\fluxstore\\codecanyon-YYsWrc9o-fluxstore-woocommerce-flutter-ecommerce-full-app\\build\\multi_image_picker\\intermediates\\res\\merged\\release\\animator\\design_fab_hide_motion_spec.xml",
+        "source": "C:\\Users\\yourw\\.gradle\\caches\\transforms-2\\files-2.1\\8475769f0318ed5911e56109b0d95b01\\material-1.0.0\\res\\animator\\design_fab_hide_motion_spec.xml"
+    },
+    {
+        "merged": "C:\\Users\\yourw\\Desktop\\fluxstore\\codecanyon-YYsWrc9o-fluxstore-woocommerce-flutter-ecommerce-full-app\\build\\multi_image_picker\\intermediates\\res\\merged\\release\\animator\\design_fab_show_motion_spec.xml",
+        "source": "C:\\Users\\yourw\\.gradle\\caches\\transforms-2\\files-2.1\\8475769f0318ed5911e56109b0d95b01\\material-1.0.0\\res\\animator\\design_fab_show_motion_spec.xml"
+    },
+    {
+        "merged": "C:\\Users\\yourw\\Desktop\\fluxstore\\codecanyon-YYsWrc9o-fluxstore-woocommerce-flutter-ecommerce-full-app\\build\\multi_image_picker\\intermediates\\res\\merged\\release\\animator\\mtrl_fab_transformation_sheet_collapse_spec.xml",
+        "source": "C:\\Users\\yourw\\.gradle\\caches\\transforms-2\\files-2.1\\8475769f0318ed5911e56109b0d95b01\\material-1.0.0\\res\\animator\\mtrl_fab_transformation_sheet_collapse_spec.xml"
+    },
+    {
+        "merged": "C:\\Users\\yourw\\Desktop\\fluxstore\\codecanyon-YYsWrc9o-fluxstore-woocommerce-flutter-ecommerce-full-app\\build\\multi_image_picker\\intermediates\\res\\merged\\release\\animator\\mtrl_fab_hide_motion_spec.xml",
+        "source": "C:\\Users\\yourw\\.gradle\\caches\\transforms-2\\files-2.1\\8475769f0318ed5911e56109b0d95b01\\material-1.0.0\\res\\animator\\mtrl_fab_hide_motion_spec.xml"
+    },
+    {
+        "merged": "C:\\Users\\yourw\\Desktop\\fluxstore\\codecanyon-YYsWrc9o-fluxstore-woocommerce-flutter-ecommerce-full-app\\build\\multi_image_picker\\intermediates\\res\\merged\\release\\animator\\mtrl_fab_transformation_sheet_expand_spec.xml",
+        "source": "C:\\Users\\yourw\\.gradle\\caches\\transforms-2\\files-2.1\\8475769f0318ed5911e56109b0d95b01\\material-1.0.0\\res\\animator\\mtrl_fab_transformation_sheet_expand_spec.xml"
+    },
+    {
+        "merged": "C:\\Users\\yourw\\Desktop\\fluxstore\\codecanyon-YYsWrc9o-fluxstore-woocommerce-flutter-ecommerce-full-app\\build\\multi_image_picker\\intermediates\\res\\merged\\release\\animator\\mtrl_btn_unelevated_state_list_anim.xml",
+        "source": "C:\\Users\\yourw\\.gradle\\caches\\transforms-2\\files-2.1\\8475769f0318ed5911e56109b0d95b01\\material-1.0.0\\res\\animator\\mtrl_btn_unelevated_state_list_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\yourw\\Desktop\\fluxstore\\codecanyon-YYsWrc9o-fluxstore-woocommerce-flutter-ecommerce-full-app\\build\\multi_image_picker\\intermediates\\res\\merged\\release\\animator\\mtrl_btn_state_list_anim.xml",
+        "source": "C:\\Users\\yourw\\.gradle\\caches\\transforms-2\\files-2.1\\8475769f0318ed5911e56109b0d95b01\\material-1.0.0\\res\\animator\\mtrl_btn_state_list_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\yourw\\Desktop\\fluxstore\\codecanyon-YYsWrc9o-fluxstore-woocommerce-flutter-ecommerce-full-app\\build\\multi_image_picker\\intermediates\\res\\merged\\release\\animator\\mtrl_fab_show_motion_spec.xml",
+        "source": "C:\\Users\\yourw\\.gradle\\caches\\transforms-2\\files-2.1\\8475769f0318ed5911e56109b0d95b01\\material-1.0.0\\res\\animator\\mtrl_fab_show_motion_spec.xml"
+    },
+    {
+        "merged": "C:\\Users\\yourw\\Desktop\\fluxstore\\codecanyon-YYsWrc9o-fluxstore-woocommerce-flutter-ecommerce-full-app\\build\\multi_image_picker\\intermediates\\res\\merged\\release\\animator\\mtrl_chip_state_list_anim.xml",
+        "source": "C:\\Users\\yourw\\.gradle\\caches\\transforms-2\\files-2.1\\8475769f0318ed5911e56109b0d95b01\\material-1.0.0\\res\\animator\\mtrl_chip_state_list_anim.xml"
+    }
+]

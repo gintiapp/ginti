@@ -1,0 +1,10 @@
+com/lyokone/location/BuildConfig.java
+ com.lyokone.location.BuildConfig
+com/lyokone/location/LocationPlugin.java
+ com.lyokone.location.LocationPlugin
+ com.lyokone.location.LocationPlugin$1
+ com.lyokone.location.LocationPlugin$2
+ com.lyokone.location.LocationPlugin$3
+ com.lyokone.location.LocationPlugin$4
+ com.lyokone.location.LocationPlugin$5
+ com.lyokone.location.LocationPlugin$6
